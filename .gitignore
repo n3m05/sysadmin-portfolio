@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backups & archives
+*.tar
+*.tar.gz
+*.zip
+*.bak
+
+# Docker
+.env.docker
+
+# IDEs
+.vscode/
+.idea/
+
+# Ansible
+*.retry
+
+# Secrets
+secrets/
+*.key
+*.pem
+
