@@ -32,3 +32,9 @@ This toolkit was designed to support common systems administration tasks such as
 ## Purpose
 This repository exists to demonstrate hands-on systems administration skills, operational thinking, and infrastructure automation. It reflects the type of tooling commonly built and maintained by junior to mid-level systems administrators in production environments.
 
+## Repository Structure
+- health-checks/        # System monitoring and alerting scripts
+- backups/              # Automated backup and retention tooling
+- network-tools/        # Network diagnostics and validation
+
+
